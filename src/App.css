@@ -1,0 +1,6 @@
+.main-container {
+  /* 중앙 */
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
